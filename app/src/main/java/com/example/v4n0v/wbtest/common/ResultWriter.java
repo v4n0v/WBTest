@@ -2,14 +2,11 @@ package com.example.v4n0v.wbtest.common;
 
 import android.os.Environment;
 import android.util.Log;
-
 import com.example.v4n0v.wbtest.App;
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-import timber.log.Timber;
 
 public class ResultWriter {
 

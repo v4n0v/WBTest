@@ -22,7 +22,6 @@ public class CounterRunnable implements Runnable {
         this.handler = handler;
     }
 
-
     @Override
     public void run() {
         // считаю до 100, записываю в файл, логирую происходящее
